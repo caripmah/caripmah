@@ -5,7 +5,10 @@
 </p>
 
 <p align="center"><em>Welcome to my little cozy space, a place to chill and explore ☕</em></p>
-<hr style="height: 4px; border: none; background: linear-gradient(90deg, #00C9FF, #92FE9D); border-radius: 10px;" />
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/59c369f66400270ad0666ec0146d0793/tumblr_mzoaf6veWH1rk0k2jo1_500.gifv" width="1000" height="5" alt="Coding GIF">
+</p>
 
 ### 🛠️ Skills
 
@@ -20,7 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
 </p>
 
-<hr style="height: 4px; border: none; background: linear-gradient(90deg, #f7971e, #ffd200); border-radius: 10px;" />
+<p align="center">
+  <img src="https://64.media.tumblr.com/59c369f66400270ad0666ec0146d0793/tumblr_mzoaf6veWH1rk0k2jo1_500.gifv" width="1000" height="5" alt="Coding GIF">
+</p>
 
 ### 🌐 Connect With Me
 
@@ -36,4 +41,6 @@
   </a>
 </p>
 
-<hr style="height: 4px; border: none; background: linear-gradient(90deg, #00DBDE, #FC00FF); border-radius: 10px;" />
+<p align="center">
+  <img src="https://64.media.tumblr.com/59c369f66400270ad0666ec0146d0793/tumblr_mzoaf6veWH1rk0k2jo1_500.gifv" width="1000" height="5" alt="Coding GIF">
+</p>
