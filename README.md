@@ -4,7 +4,18 @@
   <img src="https://cdn.dribbble.com/userupload/23251830/file/original-2dcade36a304e8a60f1d9061d5f57678.gif" width="1000" height="430" alt="Coding GIF">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=caripmah&label=Visitors&color=ff69b4&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-💖-ff69b4?style=for-the-badge" alt="thanks badge"/>
+ 
+</p>
+
 <p align="center"><em>Welcome to my little cozy space, a place to chill and explore ☕</em></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/From-Indonesia-ff4b2b?style=for-the-badge&logo=google-earth&logoColor=white" alt="location badge"/>
+  <img src="https://img.shields.io/badge/Keep%20Smiling-😊-ff00ff?style=for-the-badge" alt="smile badge"/>
+</p>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/59c369f66400270ad0666ec0146d0793/tumblr_mzoaf6veWH1rk0k2jo1_500.gifv" width="1000" height="5" alt="Coding GIF">
