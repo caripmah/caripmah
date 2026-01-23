@@ -1,4 +1,4 @@
-## Hi, I'm Muhammad Arif 👋
+## Hi, 👋
 
 <p align="center">
   <img src="https://cdn.dribbble.com/userupload/23251830/file/original-2dcade36a304e8a60f1d9061d5f57678.gif" width="1000" height="430" alt="Coding GIF">
