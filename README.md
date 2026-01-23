@@ -41,7 +41,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-arif" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-arif-8b68192a7" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
   <a href="mailto:mhmmdarif0103@gmail.com?subject=Hello%20Muhammad%20Arif!%20I%20saw%20your%20GitHub%20profile">
