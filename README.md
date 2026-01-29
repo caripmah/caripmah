@@ -12,10 +12,10 @@
 
 <p align="center"><em>Welcome to my little cozy space, a place to chill and explore ☕</em></p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/From-Indonesia-ff4b2b?style=for-the-badge&logo=google-earth&logoColor=white" alt="location badge"/>
   <img src="https://img.shields.io/badge/Keep%20Smiling-😊-ff00ff?style=for-the-badge" alt="smile badge"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://64.media.tumblr.com/59c369f66400270ad0666ec0146d0793/tumblr_mzoaf6veWH1rk0k2jo1_500.gifv" width="1000" height="5" alt="Coding GIF">
