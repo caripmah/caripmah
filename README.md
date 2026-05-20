@@ -42,8 +42,10 @@
 ## 🎵 Now Playing
 
 <div align="center">
-
-[![Spotify](https://novatorema.vercel.app/api/orchestrator)](https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii)
+  <a href="https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii">
+    <img src="https://novatorema.vercel.app/api/orchestrator" alt="Spotify Now Playing">
+  </a>
+</div>
 
 </div>
 
