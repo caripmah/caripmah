@@ -18,11 +18,9 @@
 | | |
 |---|---|
 | 📱 | Mobile dev focused on **Flutter & Dart** |
-| 🎨 | Figma to production — design meets **code** |
 | ⚙️ | Backend with **Golang** and **MySQL** |
-| ☁ | Real-time apps with **Firebase** |
+| ☁️ | Real-time apps with **Firebase** |
 | 📍 | Based in **Jakarta, Indonesia** 🇮🇩 |
-| 💬 | Always happy to talk **mobile · UI/UX · open source** |
 
 ---
 
@@ -36,22 +34,34 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" title="Figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" title="Golang"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" title="GitHub"/>
 
 </div>
 
 ---
 
-## 📊 Statistics
+## 🏆 Achievements & Stats
 
 <div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=caripmah&theme=dracula&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caripmah&theme=visual_studio_code" width="100%"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=caripmah&theme=dark&background=0D0D0D&ring=C0392B&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=E74C3C&border=C0392B" width="100%"/>
+
+</div>
+
+---
+
+## 🎵 Now Playing
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=mhmmdarif0103&cover_image=true&theme=default&show_offline=true&background_color=121212&interact=true)](https://open.spotify.com/user/mhmmdarif0103)
 
 </div>
 
@@ -74,5 +84,9 @@
 *"With great power comes great responsibility"*
 
 **Thanks for visiting — keep building cool things 🚀**
+
+<br/>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=caripmah.caripmah)
 
 </div>
