@@ -39,24 +39,6 @@
 
 ---
 
-## 🏆 Achievements & Stats
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=caripmah&theme=dracula&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caripmah&theme=visual_studio_code" width="100%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=caripmah&theme=dark&background=0D0D0D&ring=C0392B&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=E74C3C&border=C0392B" width="100%"/>
-
-</div>
-
----
-
 ## 🎵 Now Playing
 
 <div align="center">
