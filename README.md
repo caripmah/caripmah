@@ -20,7 +20,7 @@
 | 📱 | Mobile dev focused on **Flutter & Dart** |
 | 🎨 | Figma to production — design meets **code** |
 | ⚙️ | Backend with **Golang** and **MySQL** |
-| ☁️ | Real-time apps with **Firebase** |
+| ☁ | Real-time apps with **Firebase** |
 | 📍 | Based in **Jakarta, Indonesia** 🇮🇩 |
 | 💬 | Always happy to talk **mobile · UI/UX · open source** |
 
@@ -43,11 +43,11 @@
 
 ---
 
-## 📊 Activity & Metrics
+## 📊 Statistics
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/caripmah?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FJakarta" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caripmah&theme=visual_studio_code" width="100%"/>
 
 <br/>
 
