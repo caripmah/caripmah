@@ -53,6 +53,8 @@
 
 ![Streak GitHub](https://streak-stats.demolab.com?user=caripmah&theme=dark&background=0D0D0D&ring=C0392B&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=E74C3C&border=C0392B)
 
+</div>
+
 ---
 
 ## 🌐 Connect With Me
