@@ -55,13 +55,17 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-C0392B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arif-8b68192a7)
-<div align="center">
-  <a href="mailto:mhmmdarif0103@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/muhammad-arif-8b68192a7">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-C0392B?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-[![GitHub](https://img.shields.io/badge/GitHub-caripmah-161616?style=for-the-badge&logo=github&logoColor=E74C3C)](https://github.com/caripmah)
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhmmdarif0103@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/caripmah">
+    <img src="https://img.shields.io/badge/GitHub-caripmah-161616?style=for-the-badge&logo=github&logoColor=E74C3C" />
+  </a>
 
 </div>
 
