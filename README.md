@@ -56,7 +56,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-C0392B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arif-8b68192a7)
-[![Email](https://img.shields.io/badge/Email-mhmmdarif0103-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmmdarif0103@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmmdarif0103@gmail.com?subject=Hello%20Arif)
 [![GitHub](https://img.shields.io/badge/GitHub-caripmah-161616?style=for-the-badge&logo=github&logoColor=E74C3C)](https://github.com/caripmah)
 
 </div>
