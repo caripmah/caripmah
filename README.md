@@ -7,8 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=caripmah&label=Visitors&color=534AB7&style=for-the-badge" alt="profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-💼-1D9E75?style=for-the-badge" alt="open to work"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Based%20in-Indonesia%20🇮🇩-ff4b2b?style=for-the-badge" alt="location"/>
 </p>
 
