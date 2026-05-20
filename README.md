@@ -1,84 +1,82 @@
-## Hi there 👋 I'm Muhammad Arif
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/userupload/23251830/file/original-2dcade36a304e8a60f1d9061d5f57678.gif" width="800" alt="Coding GIF"/>
-</p>
+# 🕷️ MUHAMMAD ARIF
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caripmah&label=Visitors&color=534AB7&style=for-the-badge" alt="profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Indonesia%20🇮🇩-ff4b2b?style=for-the-badge" alt="location"/>
-</p>
+![](https://img.shields.io/badge/Flutter_Developer-red?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Open_to_Work-darkred?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=caripmah&label=Visitors&color=C0392B&style=for-the-badge)
 
-<p align="center"><em>A cozy corner on GitHub — grab a coffee and explore ☕</em></p>
+</div>
 
 ---
 
-### 👋 About Me
-
-- 📱 Mobile developer focused on **Flutter & Dart**
-- 🎨 I love bridging design and code — from **Figma** to production apps
-- ⚙️ Exploring backend with **Golang** and **MySQL**
-- ☁️ Real-time app experience with **Firebase**
-- 📍 Based in **Jakarta, Indonesia**
-- 💬 Always happy to chat about mobile dev, UI/UX, or open source
+<img src="https://cdn.dribbble.com/userupload/23251830/file/original-2dcade36a304e8a60f1d9061d5f57678.gif" width="100%" alt="banner"/>
 
 ---
 
-### 🛠️ Skills & Tools
+## 👤 About Me
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter" title="Flutter"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart" title="Dart"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" title="Firebase"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" title="Figma"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="Golang" title="Golang"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
-</p>
+| | |
+|---|---|
+| 📱 | Mobile dev focused on **Flutter & Dart** |
+| 🎨 | Figma to production — design meets **code** |
+| ⚙️ | Backend with **Golang** and **MySQL** |
+| ☁️ | Real-time apps with **Firebase** |
+| 📍 | Based in **Jakrta, Indonesia** 🇮🇩 |
+| 💬 | Always happy to talk **mobile · UI/UX · open source** |
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caripmah&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=caripmah&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" title="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" title="Dart"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" title="Golang"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" title="GitHub"/>
 
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-arif-8b68192a7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mhmmdarif0103@gmail.com?subject=Hello%20Muhammad%20Arif!%20I%20saw%20your%20GitHub%20profile">
-    <img src="https://img.shields.io/badge/Email-mhmmdarif0103-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/caripmah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-caripmah-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <em>Thanks for visiting — keep building cool things 🚀</em>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C&icon_color=E74C3C&hide_border=false&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caripmah&layout=compact&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C&hide_border=false" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=caripmah&theme=dark&background=0D0D0D&ring=C0392B&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=E74C3C&border=C0392B"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-C0392B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arif-8b68192a7)
+[![Email](https://img.shields.io/badge/Email-mhmmdarif0103-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmmdarif0103@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-caripmah-161616?style=for-the-badge&logo=github&logoColor=E74C3C)](https://github.com/caripmah)
+
+</div>
+
+---
+
+<div align="center">
+
+*"With great power comes great responsibility"*
+
+**Thanks for visiting — keep building cool things 🚀**
+
+</div>
