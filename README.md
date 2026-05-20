@@ -3,7 +3,6 @@
 # 🕷️ MUHAMMAD ARIF
 
 ![](https://img.shields.io/badge/Flutter_Developer-red?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Open_to_Work-darkred?style=for-the-badge)
 ![](https://komarev.com/ghpvc/?username=caripmah&label=Visitors&color=C0392B&style=for-the-badge)
 
 </div>
@@ -48,16 +47,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C&icon_color=E74C3C&count_private=true&cache_seconds=86400" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caripmah&layout=compact&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C&cache_seconds=86400" height="170"/>
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C&icon_color=E74C3C&count_private=true)
 
-</div>
+![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=caripmah&layout=compact&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C)
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=caripmah&theme=dark&background=0D0D0D&ring=C0392B&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=E74C3C&border=C0392B"/>
-
-</div>
+![Streak GitHub](https://streak-stats.demolab.com?user=caripmah&theme=dark&background=0D0D0D&ring=C0392B&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=E74C3C&border=C0392B)
 
 ---
 
