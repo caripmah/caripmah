@@ -61,7 +61,7 @@
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=mhmmdarif0103&cover_image=true&theme=default&show_offline=true&background_color=121212&interact=true)](https://open.spotify.com/user/mhmmdarif0103)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=317pbkgjhwxfd62zmzdva6r6w5ii&cover_image=true&theme=default&show_offline=true&background_color=121212&interact=true)](https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii)
 
 </div>
 
