@@ -22,7 +22,7 @@
 | 🎨 | Figma to production — design meets **code** |
 | ⚙️ | Backend with **Golang** and **MySQL** |
 | ☁️ | Real-time apps with **Firebase** |
-| 📍 | Based in **Jakrta, Indonesia** 🇮🇩 |
+| 📍 | Based in **Jakarta, Indonesia** 🇮🇩 |
 | 💬 | Always happy to talk **mobile · UI/UX · open source** |
 
 ---
@@ -48,14 +48,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C&icon_color=E74C3C&hide_border=false&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caripmah&layout=compact&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C&hide_border=false" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C&icon_color=E74C3C&count_private=true&cache_seconds=86400" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caripmah&layout=compact&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C&cache_seconds=86400" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=caripmah&theme=dark&background=0D0D0D&ring=C0392B&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=E74C3C&border=C0392B"/>
+<img src="https://streak-stats.demolab.com?user=caripmah&theme=dark&background=0D0D0D&ring=C0392B&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=E74C3C&border=C0392B"/>
 
 </div>
 
