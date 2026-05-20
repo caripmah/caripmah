@@ -43,15 +43,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity & Metrics
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C&icon_color=E74C3C&count_private=true)
+<img src="https://metrics.lecoq.io/caripmah?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FJakarta" width="100%"/>
 
-![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=caripmah&layout=compact&theme=dark&bg_color=0D0D0D&border_color=C0392B&title_color=E74C3C)
+<br/>
 
-![Streak GitHub](https://streak-stats.demolab.com?user=caripmah&theme=dark&background=0D0D0D&ring=C0392B&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=E74C3C&border=C0392B)
+<img src="https://streak-stats.demolab.com?user=caripmah&theme=dark&background=0D0D0D&ring=C0392B&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=E74C3C&border=C0392B" width="100%"/>
 
 </div>
 
