@@ -46,47 +46,23 @@
 
 ---
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
+## 📊 GitHub Stats
 
-### 🎵 Now Playing
-
-<a href="https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii">
-  <img src="https://novatorema.vercel.app/api/orchestrator?cache=no" alt="Spotify Now Playing" width="320"/>
-</a>
-
-  </td>
-    <td width="50%" align="center" valign="middle">
-
-### 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/muhammad-arif-8b68192a7">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhmmdarif0103@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-E34F26?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/caripmah">
-  <img src="https://img.shields.io/badge/GitHub-caripmah-181717?style=for-the-badge&logo=github&logoColor=f5f5f5"/>
-</a>
-
-  </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff6b6b&text_color=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caripmah&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff6b6b&text_color=ffffff"/>
+</div>
 
 ---
 
+## 🎖️ Achievements
+
 <div align="center">
-
-*"With great power comes great responsibility"*
-
-**Thanks for visiting — keep building cool things 🚀**
-
+  <img src="https://github-profile-trophy.vercel.app/?username=caripmah&theme=radical&hide_border=true"/>
 </div>
+
+---
+
+## 🔥 Pinned Projects
+
+<div align="center">
