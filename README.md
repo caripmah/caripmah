@@ -2,9 +2,8 @@
 
 # 🕷️ Caripmah
 
-[![](https://img.shields.io/badge/Flutter_Developer-red?style=for-the-badge&logo=flutter&logoColor=white)]()
-[![](https://komarev.com/ghpvc/?username=caripmah&label=Visitors&color=ea4141&style=for-the-badge)]()
-[![](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
+![](https://img.shields.io/badge/Flutter_Developer-red?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://komarev.com/ghpvc/?username=caripmah&label=Visitors&color=C0392B&style=for-the-badge)
 
 </div>
 
@@ -18,7 +17,7 @@
 
 <table width="100%" border="0">
   <tr>
-    <td>📱</td><td>Mobile dev focused on <strong>Flutter & Dart</strong></td>
+    <td>📱</td><td>Mobile dev focused on <strong>Flutter &amp; Dart</strong></td>
   </tr>
   <tr>
     <td>⚙️</td><td>Backend with <strong>Golang</strong> and <strong>MySQL</strong></td>
@@ -37,32 +36,73 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" title="Flutter"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" title="Dart"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" title="Firebase"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" title="Figma"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" title="Golang"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff6b6b&text_color=ffffff"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caripmah&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff6b6b&text_color=ffffff"/>
-</div>
+<h2>🎵 Now Playing</h2>
+
+<a href="https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii">
+  <img src="https://novatorema.vercel.app/api/orchestrator?cache=no" alt="Spotify Now Playing" width="320"/>
+</a>
+
+  </td>
+  <td width="50%" align="center" valign="top">
+
+<h2>🌐 Connect With Me</h2>
+
+<a href="https://www.linkedin.com/in/muhammad-arif-8b68192a7">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-C0392B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhmmdarif0103@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/caripmah">
+  <img src="https://img.shields.io/badge/GitHub-caripmah-161616?style=for-the-badge&logo=github&logoColor=E74C3C"/>
+</a>
+
+<br/><br/>
 
 ---
 
-## 🎖️ Achievements
+<h2>📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caripmah&theme=radical&hide_border=true"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=E74C3C&icon_color=C0392B&text_color=ffffff" width="320"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caripmah&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E74C3C&text_color=ffffff" width="320"/>
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-## 🔥 Pinned Projects
-
 <div align="center">
+
+*"With great power comes great responsibility"*
+
+**Thanks for visiting — keep building cool things 🚀**
+
+</div>
