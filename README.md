@@ -39,34 +39,38 @@
 
 ---
 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+
 ## 🎵 Now Playing
-<div align="center">
-  <a href="https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii">
-    <img 
-      src="https://novatorema.vercel.app/api/orchestrator?cache=no"
-      alt="Spotify Now Playing"
-      width="400"
-    />
-  </a>
-</div>
+<a href="https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii">
+  <img 
+    src="https://novatorema.vercel.app/api/orchestrator?cache=no"
+    alt="Spotify Now Playing"
+    width="300"
+  />
+</a>
+
+  </td>
+  <td width="50%" align="center">
 
 ## 🌐 Connect With Me
+<a href="https://www.linkedin.com/in/muhammad-arif-8b68192a7">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-C0392B?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhmmdarif0103@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/><br/>
+<a href="https://github.com/caripmah">
+  <img src="https://img.shields.io/badge/GitHub-caripmah-161616?style=for-the-badge&logo=github&logoColor=E74C3C" />
+</a>
 
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/muhammad-arif-8b68192a7">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-C0392B?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhmmdarif0103@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/caripmah">
-    <img src="https://img.shields.io/badge/GitHub-caripmah-161616?style=for-the-badge&logo=github&logoColor=E74C3C" />
-  </a>
-
-</div>
+  </td>
+  </tr>
+</table>
 
 ---
 
