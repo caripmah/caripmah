@@ -15,20 +15,12 @@
 
 ## 👤 About Me
 
-<table width="100%" border="0">
-  <tr>
-    <td>📱</td><td>Mobile dev focused on <strong>Flutter &amp; Dart</strong></td>
-  </tr>
-  <tr>
-    <td>⚙️</td><td>Backend with <strong>Golang</strong> and <strong>MySQL</strong></td>
-  </tr>
-  <tr>
-    <td>☁️</td><td>Real-time apps with <strong>Firebase</strong></td>
-  </tr>
-  <tr>
-    <td>📍</td><td>Based in <strong>Jakarta, Indonesia</strong> 🇮🇩</td>
-  </tr>
-</table>
+| | |
+|---|---|
+| 📱 | Mobile dev focused on **Flutter & Dart** |
+| ⚙️ | Backend with **Golang** and **MySQL** |
+| ☁️ | Real-time apps with **Firebase** |
+| 📍 | Based in **Jakarta, Indonesia** 🇮🇩 |
 
 ---
 
@@ -50,52 +42,41 @@
 
 ---
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
+## 📊 GitHub Stats
 
-<h2>🎵 Now Playing</h2>
-
-<a href="https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii">
-  <img src="https://novatorema.vercel.app/api/orchestrator?cache=no" alt="Spotify Now Playing" width="320"/>
-</a>
-
-  </td>
-  <td width="50%" align="center" valign="top">
-
-<h2>🌐 Connect With Me</h2>
-
-<a href="https://www.linkedin.com/in/muhammad-arif-8b68192a7">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-C0392B?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhmmdarif0103@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/caripmah">
-  <img src="https://img.shields.io/badge/GitHub-caripmah-161616?style=for-the-badge&logo=github&logoColor=E74C3C"/>
-</a>
-
-<br/><br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=E74C3C&icon_color=C0392B&text_color=ffffff" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caripmah&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E74C3C&text_color=ffffff" width="38%"/>
+</div>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 🎵 Now Playing
 
-<img src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=E74C3C&icon_color=C0392B&text_color=ffffff" width="320"/>
+<div align="center">
+  <a href="https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii">
+    <img src="https://novatorema.vercel.app/api/orchestrator?cache=no" alt="Spotify Now Playing" width="400"/>
+  </a>
+</div>
 
-<br/><br/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caripmah&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E74C3C&text_color=ffffff" width="320"/>
+## 🌐 Connect With Me
 
-  </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-arif-8b68192a7">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-C0392B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhmmdarif0103@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/caripmah">
+    <img src="https://img.shields.io/badge/GitHub-caripmah-161616?style=for-the-badge&logo=github&logoColor=E74C3C"/>
+  </a>
+</div>
 
 ---
 
