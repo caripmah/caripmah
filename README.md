@@ -43,12 +43,13 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii">
-    <img src="https://novatorema.vercel.app/api/orchestrator" alt="Spotify Now Playing">
+    <img 
+      src="https://novatorema.vercel.app/api/orchestrator" 
+      alt="Spotify Now Playing"
+      width="400"
+    />
   </a>
 </div>
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
