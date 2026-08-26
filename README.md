@@ -40,16 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=E74C3C&icon_color=C0392B&text_color=ffffff" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caripmah&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E74C3C&text_color=ffffff" width="38%"/>
-</div>
-
----
-
 ## 🎵 Now Playing
 
 <div align="center">
