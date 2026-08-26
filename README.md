@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii">
-    <img src="https://novatorema.vercel.app/api/orchestrator?cache=no" alt="Spotify Now Playing" width="400"/>
+    <img src="https://novatorema.vercel.app/api/orchestrator?cache=no" alt="Spotify Now Playing" width="800"/>
   </a>
 </div>
 
