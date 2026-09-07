@@ -53,9 +53,6 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-arif-8b68192a7">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arif-C0392B?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mhmmdarif0103@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
