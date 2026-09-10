@@ -1,11 +1,7 @@
 <div align="center">
 
-```
-   .            .                  .
-        .    web:init() -> ok          .
-              caripmah
-   .                  .            .
-```
+<img src="https://raw.githubusercontent.com/caripmah/caripmah/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/caripmah/caripmah/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="contribution snake" width="100%" />
 
 </div>
 
