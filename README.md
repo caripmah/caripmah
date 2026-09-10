@@ -32,12 +32,17 @@
 
 <div align="center">
 
-<img src="[https://i.redd.it/c7s472ehb00f1.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xsMHJueTUyNTg4MnlvbGFoc21qcHo2dWY3dnE4eTNieHVta3pjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7hOj3DP7oHONInfvl/giphy.gif)" width="500" alt="GTA VI" />
+<img
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xsMHJueTUyNTg4MnlvbGFoc21qcHo2dWY3dnE4eTNieHVta3pjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7hOj3DP7oHONInfvl/giphy.gif"
+  width="500"
+  alt="GTA VI"
+/>
 
-<samp><sub>waiting on GTA 6 like everyone else</sub></samp>
+<br><br>
+
+<samp>waiting for GTA 6 like everyone else...</samp>
 
 </div>
-
 ---
 
 ### `// now playing`
