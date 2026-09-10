@@ -1,66 +1,56 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/caripmah/caripmah/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake" width="100%" />
-<img src="https://raw.githubusercontent.com/caripmah/caripmah/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/caripmah/caripmah/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" />
+<img src="https://raw.githubusercontent.com/caripmah/caripmah/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" />
 
-</div>
+<br>
 
 # caripmah
 
-<samp>flutter dev. golang enjoyer. jakarta, id.</samp>
+<samp>flutter · go · jakarta</samp>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=C0392B&center=false&vCenter=true&width=460&height=24&lines=building+mobile+apps+with+flutter;wiring+up+apis+in+go;probably+debugging+something+right+now" alt="status" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=C0392B&center=true&vCenter=true&width=430&height=24&lines=building+things;breaking+things;fixing+things" />
+
+</div>
 
 ---
 
 ### stack
 
-| layer | tools |
-|---|---|
-| mobile | Flutter, Dart |
-| backend | Go, REST APIs |
-| data | MySQL, Firebase |
-| tooling | Figma, Git |
-
-### currently
-
-- shipping features on a Flutter app in production
-- writing Go services that talk to that app
-- occasionally staring at a stack trace at 2am
+`flutter` `dart` `go` `mysql` `firebase` `figma`
 
 ### `// off duty`
 
 <div align="center">
 
 <img
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xsMHJueTUyNTg4MnlvbGFoc21qcHo2dWY3dnE4eTNieHVta3pjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7hOj3DP7oHONInfvl/giphy.gif"
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xsMHJueTUyNTg4MnlvbGFoc21qcHo2dWY3dnE4eTNieHVta3pjbSZlcD12MV9pbnRlcm5uYWxfaWZfYnlfaWQmY3Q9Zw/X7hOj3DP7oHONInfvl/giphy.gif"
   width="100%"
-  alt="GTA VI"
 />
 
-<br>
-
-<samp>waiting for GTA 6 like everyone else...</samp>
+<samp>waiting for gta 6.</samp>
 
 </div>
+
 ---
 
 ### `// now playing`
 
 <div align="center">
-<img src="https://novatorema.vercel.app/api/orchestrator?cache=no" width="700" alt="Spotify Now Playing" />
-</a>
 
-<samp><sub>whatever's on repeat while the code compiles</sub></samp>
+<img
+  src="https://novatorema.vercel.app/api/orchestrator?cache=no"
+  width="700"
+/>
 
 </div>
 
 ---
 
 <div align="center">
-<samp>
 
-[github](https://github.com/caripmah) · <img src="https://komarev.com/ghpvc/?username=caripmah&label=visits&color=C0392B&style=flat-square" height="18" alt="visits" />
+<samp>[github](https://github.com/caripmah) · <img src="https://komarev.com/ghpvc/?username=caripmah&label=visits&color=C0392B&style=flat-square" height="18" /></samp>
 
-</samp>
 </div>
