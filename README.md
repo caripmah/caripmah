@@ -28,11 +28,21 @@
 - writing Go services that talk to that app
 - occasionally staring at a stack trace at 2am
 
-### `// now playing`
+### `// off duty`
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii">
+<img src="https://i.redd.it/c7s472ehb00f1.gif" width="500" alt="GTA VI" />
+
+<samp><sub>waiting on GTA 6 like everyone else</sub></samp>
+
+</div>
+
+---
+
+### `// now playing`
+
+<div align="center">
 <img src="https://novatorema.vercel.app/api/orchestrator?cache=no" width="700" alt="Spotify Now Playing" />
 </a>
 
