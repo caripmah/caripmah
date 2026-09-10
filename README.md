@@ -1,50 +1,48 @@
 <div align="center">
 
-<img
-  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-  width="100%"
-  alt="Caripmah"
-/>
-
-<br><br>
-
-# 🕷️ caripmah
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2400&pause=850&color=C0392B&center=true&vCenter=true&width=620&lines=flutter+dev.;golang+enjoyer.;mobile+%2B+backend.;turning+coffee+into+code.;probably+debugging+something."
-  alt="Typing"
-/>
-
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=caripmah&label=VISITORS&color=C0392B&style=for-the-badge"
-  alt="Visitors"
-/>
+```
+   .            .                  .
+        .    web:init() -> ok          .
+              caripmah
+   .                  .            .
+```
 
 </div>
 
+# caripmah
+
+<samp>flutter dev. golang enjoyer. jakarta, id.</samp>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=C0392B&center=false&vCenter=true&width=460&height=24&lines=building+mobile+apps+with+flutter;wiring+up+apis+in+go;probably+debugging+something+right+now" alt="status" />
+
 ---
 
-## hey 👋
+### stack
 
-I'm **Caripmah**, a developer from Jakarta.
+| layer | tools |
+|---|---|
+| mobile | Flutter, Dart |
+| backend | Go, REST APIs |
+| data | MySQL, Firebase |
+| tooling | Figma, Git |
 
-Most of my time goes into building mobile apps with **Flutter**, playing
-around with **Golang**, and making APIs talk nicely with the things I build.
+### currently
 
-Sometimes everything works.
+- shipping features on a Flutter app in production
+- writing Go services that talk to that app
+- occasionally staring at a stack trace at 2am
 
-Sometimes it doesn't.
+### stats
 
-```text
-          ┌───────────────────────────────────────┐
-          │                                       │
-          │   📱  Flutter / Dart                  │
-          │   ⚙️  Golang / REST API              │
-          │   🔥  Firebase                        │
-          │   🗄️  MySQL                           │
-          │   🎨  Figma                           │
-          │   📍  Jakarta, Indonesia              │
-          │                                       │
-          └───────────────────────────────────────┘
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&hide_border=true&theme=transparent&title_color=C0392B&icon_color=C0392B&text_color=8b8b8b&hide_title=true" alt="github stats" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=caripmah&hide_border=true&theme=transparent&stroke=8b8b8b&ring=C0392B&fire=C0392B&currStreakLabel=C0392B" alt="streak stats" />
+
+---
+
+<div align="center">
+<samp>
+
+[github](https://github.com/caripmah) · <img src="https://komarev.com/ghpvc/?username=caripmah&label=visits&color=C0392B&style=flat-square" height="18" alt="visits" />
+
+</samp>
+</div>
