@@ -28,10 +28,17 @@
 - writing Go services that talk to that app
 - occasionally staring at a stack trace at 2am
 
-### stats
+### `// now playing`
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=caripmah&show_icons=true&hide_border=true&theme=transparent&title_color=C0392B&icon_color=C0392B&text_color=8b8b8b&hide_title=true" alt="github stats" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=caripmah&hide_border=true&theme=transparent&stroke=8b8b8b&ring=C0392B&fire=C0392B&currStreakLabel=C0392B" alt="streak stats" />
+<div align="center">
+
+<a href="https://open.spotify.com/user/317pbkgjhwxfd62zmzdva6r6w5ii">
+<img src="https://novatorema.vercel.app/api/orchestrator?cache=no" width="700" alt="Spotify Now Playing" />
+</a>
+
+<samp><sub>whatever's on repeat while the code compiles</sub></samp>
+
+</div>
 
 ---
 
