@@ -7,7 +7,7 @@
 
 # caripmah
 
-<samp>flutter · go · jakarta</samp>
+<samp>software engineer · jakarta</samp>
 
 <br>
 
@@ -30,13 +30,13 @@
   width="100%"
 />
 
-<samp>waiting for gta 6.</samp>
+<samp>over the top.</samp>
 
 </div>
 
 ---
 
-### `// now playing`
+### `// my play`
 
 <div align="center">
 
