@@ -15,11 +15,6 @@
 
 </div>
 
----
-
-### stack
-
-`flutter` `dart` `go` `mysql` `firebase` `figma`
 
 ### `// off duty`
 
