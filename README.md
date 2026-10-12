@@ -21,7 +21,7 @@
 <div align="center">
 
 <img
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xsMHJueTUyNTg4MnlvbGFoc21qcHo2dWY3dnE4eTNieHVta3pjbSZlcD12MV9pbnRlcm5uYWxfaWZfYnlfaWQmY3Q9Zw/X7hOj3DP7oHONInfvl/giphy.gif"
+  src="https://giffiles.alphacoders.com/492/49274.gif"
   width="100%"
 />
 
