@@ -47,6 +47,6 @@
 <div align="center">
 
 <samp>[github](https://github.com/caripmah) · <img src="https://komarev.com/ghpvc/?username=caripmah&label=visits&color=C0392B&style=flat-square" height="18" /></samp>
-<samp>[github]([https://github.com/caripmah](https://www.linkedin.com/in/muhammad-arif-8b68192a7/)) · <img src="https://komarev.com/ghpvc/?username=caripmah&label=visits&color=C0392B&style=flat-square" height="18" /></samp>
+<samp>[linkedin]([https://github.com/caripmah](https://www.linkedin.com/in/muhammad-arif-8b68192a7/)) · <img src="https://komarev.com/ghpvc/?username=caripmah&label=visits&color=C0392B&style=flat-square" height="18" /></samp>
 
 </div>
